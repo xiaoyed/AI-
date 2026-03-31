@@ -2,8 +2,7 @@
   "build": {
     "env": {
       "NODE_OPTIONS": "--openssl-legacy-provider"
-    },
-    "nodeVersion": "16.x"
+    }
   },
   "routes": [
     { "handle": "filesystem" },
